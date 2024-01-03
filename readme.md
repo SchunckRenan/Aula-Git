@@ -1,1 +1,3 @@
-readme do projeto
+Aula de Git
+
+Feito algumas alterações
